@@ -1,0 +1,14 @@
+{
+  "name": "appstores-info",
+  "version": "1.0.0",
+  "description": "Fetch rating from mobile app stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yacine Rezgui <@yrezgui>",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^9.8.3"
+  }
+}
