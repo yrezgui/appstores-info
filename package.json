@@ -1,5 +1,5 @@
 {
-  "name": "appstores-info",
+  "name": "@yrezgui/appstores-info",
   "version": "1.0.0",
   "description": "Fetch rating from mobile app stores",
   "main": "index.js",
@@ -7,8 +7,27 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yacine Rezgui <@yrezgui>",
-  "license": "ISC",
+  "private": true,
+  "license": "Apache-2.0",
   "dependencies": {
     "jsdom": "^9.8.3"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "appstore",
+    "ios",
+    "app",
+    "store",
+    "android",
+    "play",
+    "store"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrezgui/appstores-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yrezgui/appstores-info/issues"
+  },
+  "homepage": "https://github.com/yrezgui/appstores-info#readme"
 }
